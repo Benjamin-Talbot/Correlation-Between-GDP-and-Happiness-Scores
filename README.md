@@ -1,6 +1,5 @@
 # Correlation-Between-GDP-and-Happiness-Scores
 The code in the Juptyer notebook file goes through the steps in finding a correlation between the GDP of a country and its happiness level. To run the code, it would need to be opened in Jupyter Notebook.
-
     To do this, I used two datasets, both from Kaggle. One of them contained the happiness scores of several countries along with related information and 
 the other contained GDP per capita data from many countries and regions of the world. I used the data from 2015 in both datasets. The datasets can be found here:
 -	https://www.kaggle.com/datasets/unsdsn/world-happiness (Happiness dataset)
